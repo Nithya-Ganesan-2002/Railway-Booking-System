@@ -37,7 +37,7 @@
           "description": "Verify all required files and components",
           "status": "in-progress",
           "micro_agent": "CodeAnalysisAgent",
-          "details": "Check presence and completeness of:\n1. Model classes (UserAccount, TrainSchedule, Booking, Payment, Notification, Feedback)\n2. ApplicationDbContext configuration\n3. Program.cs service configuration\n4. NuGet package references\n5. Test project setup"
+          "details": "Environment setup issues: Unable to restore NuGet packages. Need to resolve package source configuration."
         },
         "Task2SubTask2": {
           "description": "Verify database configuration",
