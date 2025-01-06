@@ -1,0 +1,4 @@
+{
+    "command": "dotnet run",
+    "working_directory": "/home/kavia/workspace/Railway-Booking-System/BookingManagementApp"
+}

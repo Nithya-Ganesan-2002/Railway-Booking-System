@@ -1,0 +1,22 @@
+# Railway Booking System Development Environment Configuration
+
+# .NET SDK Version
+DOTNET_VERSION=8.0
+
+# Database Configuration
+DB_TYPE=MySQL
+DB_VERSION=8.0
+
+# Development Tools
+IDE=VSCode/VisualStudio
+
+# Testing Frameworks
+UNIT_TEST_FRAMEWORK=xUnit
+UI_TEST_FRAMEWORK=Selenium
+
+# Deployment
+CONTAINER_PLATFORM=Docker
+CI_CD_PLATFORM=Azure_DevOps
+
+# Runtime Requirements
+RUNTIME=.NET_Core
